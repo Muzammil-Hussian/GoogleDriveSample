@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Drive</string>
+    <string name="sign_in_with_google">SignIn With Google</string>
+    <string name="failed_to_login">Login Failed</string>
+    <string name="signOut">Sign Out</string>
+    <string name="no_files_found">No File Found</string>
+    <string name="no_file_in_drive">No file available right now</string>
+</resources>
